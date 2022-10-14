@@ -13,3 +13,18 @@ p
 	color: red;
 }
 
+.section
+{
+	background-color: tomato;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.songname
+{
+	font-size: 120%;
+	color: red;
+}
+
