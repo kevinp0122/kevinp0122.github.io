@@ -5,7 +5,8 @@ body
 
 #myHeader
 {
-	color: lightcyan;
+	font-size: 150%;
+	color: black;
 }
 
 p
@@ -28,14 +29,13 @@ p
 	color: green;
 }
 
-a: link
+a:link
 {
 	color: blue;
 	background-color: transparent;
 	text-decoration: none;
 }
-
-a: hover
+a:hover
 {
 	color: red;
 	background-color: transparent;
