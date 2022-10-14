@@ -3,9 +3,9 @@ body
 	background-color: powderblue;
 }
 
-h1
+#myHeader
 {
-	color: blue;
+	color: lightcyan;
 }
 
 p
